@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "description": "一个AI工具集网站",
-  "author": "[你的GitHub用户名]",
+  "author": "[pphelpts]",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
